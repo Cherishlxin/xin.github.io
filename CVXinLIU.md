@@ -11,7 +11,7 @@
 <pre>
 生年月：1995.10.06　　名族：汉
 政治面貌：中共党员　　📍籍贯：湖北省随州市
-📧 邮箱: xl17g20@soton.ac.uk 电话: (+86) 130 0712 9982
+邮箱: xl17g20@soton.ac.uk 电话: (+86) 130 0712 9982
 </pre>
 
 <table style="border: none!important; border-collapse: collapse!important; line-height: 1.4;">
