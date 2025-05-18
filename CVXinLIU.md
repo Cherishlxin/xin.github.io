@@ -6,15 +6,7 @@
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
-<style>
-.responsive-img {
-  max-width: 400px;
-  height: auto;
-  border: 1px solid #ddd; /* Optional border */
-}
-</style>
-
-![Alt text](selfo.jpg){:class="responsive-img"}
+<img src="selfo.jpg" class="responsive-img" alt="Alt text" style="max-width:400px;height:auto;border:1px solid #ddd;">
 
 
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
