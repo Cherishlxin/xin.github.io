@@ -9,18 +9,18 @@
 <img src="selfo.jpg" width="15%">
 
 
-<table style="border: none; border-collapse: collapse; line-height: 1.4;">
+<table style="border: none!important; border-collapse: collapse!important; line-height: 1.4;">
 <tr>
-<td style="border: none; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
-<td style="border: none; padding: 2px 8px;">名族：汉</td>
+<td style="border: none!important; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
+<td style="border: none!important; padding: 2px 8px;">名族：汉</td>
 </tr>
 <tr>
-<td style="border: none; padding: 2px 8px;">政治面貌：中共党员</td>
-<td style="border: none; padding: 2px 8px;">籍贯：湖北省随州市</td>
+<td style="border: none!important; padding: 2px 8px;">政治面貌：中共党员</td>
+<td style="border: none!important; padding: 2px 8px;">籍贯：湖北省随州市</td>
 </tr>
 <tr>
-<td style="border: none; padding: 2px 8px;">📧 邮箱: xl17g20@soton.ac.uk  </td>
-<td style="border: none; padding: 2px 8px;">电话: (+86) 130 0712 9982 </td>
+<td style="border: none!important; padding: 2px 8px;">📧 邮箱: xl17g20@soton.ac.uk  </td>
+<td style="border: none!important; padding: 2px 8px;">电话: (+86) 130 0712 9982 </td>
 </tr>
 </table>  
 
