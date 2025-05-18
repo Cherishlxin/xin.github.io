@@ -1,6 +1,6 @@
 <div style="max-width: 1000px; margin: 0 auto; text-align: justify;">
  
-# <u>CV-XIN LIU</u> <span style="font-size: 0.2em;">[🔗GitHub](https://github.com/Cherishlxin/xinCV)</span>
+# <u>CV-XIN LIU</u> <span style="font-size: 10px;">[🔗GitHub](https://github.com/Cherishlxin/xinCV)</span>
 ## 基本信息
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
