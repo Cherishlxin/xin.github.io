@@ -7,17 +7,6 @@
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
 <img src="selfo.jpg" width="15%">
-<table style="border: none!important; border-collapse: collapse!important;">
-  <tr>
-    <td style="border: none!important; padding: 0 10px;">生年月：1995.10.06</td>
-    <td style="border: none!important;">名族：汉</td>
-  </tr>
-  <tr>
-    <td style="border: none!important;">政治面貌：中共党员</td>
-    <td style="border: none!important;">📍籍贯：湖北省随州市</td>
-  </tr>
-</table>
-
 <table style="border: none!important; border-collapse: collapse!important; line-height: 1.4;">
 <tr>
 <td style="border: none!important; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
