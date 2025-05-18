@@ -5,7 +5,7 @@
 ## 基本信息
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
--->!
+-->
 <img src="selfo" alt="Alt text" style="width:50%; height:auto;">
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
 <tr>
