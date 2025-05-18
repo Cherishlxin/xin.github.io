@@ -6,7 +6,7 @@
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
-<img src="selfo.jpg" width="10%">
+<img src="selfo.jpg" width="20%">
 
 
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
