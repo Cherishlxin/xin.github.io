@@ -8,17 +8,10 @@
 -->
 <img src="selfo.jpg" width="15%">
 
-
-<table>
-  <tr>
-    <td style="border: none!important; padding: 5px 10px;">生年月：1995.10.06</td>
-    <td style="border: none!important;">名族：汉</td>
-  </tr>
-  <tr>
-    <td style="border: none!important;">政治面貌：中共党员</td>
-    <td style="border: none!important;">📍籍贯：湖北省随州市</td>
-  </tr>
-</table>
+<pre>
+生年月：1995.10.06　　名族：汉
+政治面貌：中共党员　　📍籍贯：湖北省随州市
+</pre>
 
 <table style="border: none!important; border-collapse: collapse!important; line-height: 1.4;">
 <tr>
