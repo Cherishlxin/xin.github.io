@@ -3,7 +3,7 @@
 # <u>CV-XIN LIU</u> <span style="font-size: 0.5em;">[🔗GitHub](https://github.com/yourname)</span>
 
 ## 基本信息
-![myselfo](selfo.jpg)
+![myselfo](selfo.jpg){ width=300 height=200 }
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
 <tr>
 <td style="border: none; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
