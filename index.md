@@ -1,18 +1,31 @@
-# <u>CV-XIN LIU</u>
+<div style="max-width: 1000px; margin: 0 auto; text-align: justify;">
+ 
+# <u>CV-XIN LIU</u> <span style="font-size: 0.5em;">[🔗GitHub](https://github.com/yourname)</span>
+
 ## 基本信息
-出生年月：1995.10.06 名族：汉
-政治面貌：中共党员 📍籍贯：湖北省随州市
-📧 邮箱: xl17g20@soton.ac.uk 电话: (+86) 130 0712 9982 
-🔗 [GitHub](https://github.com/yourname)
+<table style="border: none; border-collapse: collapse; line-height: 1.4;">
+<tr>
+<td style="border: none; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
+<td style="border: none; padding: 2px 8px;">名族：汉</td>
+</tr>
+<tr>
+<td style="border: none; padding: 2px 8px;">政治面貌：中共党员</td>
+<td style="border: none; padding: 2px 8px;">籍贯：湖北省随州市</td>
+</tr>
+<tr>
+<td style="border: none; padding: 2px 8px;">📧 邮箱: xl17g20@soton.ac.uk  </td>
+<td style="border: none; padding: 2px 8px;">电话: (+86) 130 0712 9982 </td>
+</tr>
+</table>  
+
 **研究方向**：多载波通信（OFDM/OTFS），信道编码，量子密钥分发（QKD），无线通信，雷达通信系统信号处理
 
----
 
+---
 ## 🎓 教育背景
   - 英国南安普顿大学(QS81)，博士，通信工程，2021.02 – 现今，导师：Lajos Hanzo，Southampton, UK
   - 华中科技大学(保研)，硕士，信息与通信工程，2017.09 – 2020.06，均分: 91.68/100, 排名: 1/130， 武汉
   - 武汉理工大学，学士，通信工程，2013.09 – 2017.06 均分: 93.60/100, 排名: 1/229， 武汉
-
 ---
 
 ## 💼  研究项目
@@ -68,3 +81,5 @@ Constrained Small Base Stations,” *IEEE Access*, vol. 6, no. 1, pp. 27028-2703
 ---
 ## 自我评价
 为人本分踏实，责任心强；热衷于无线通信及计算机技术的研究，具备较强的学习能力，能够快速掌握并理解新知识，并高效完成各项任务；做事稳重踏实，认真负责；善于沟通与团队合作，具有较强的社会适应能力。
+
+<div>
