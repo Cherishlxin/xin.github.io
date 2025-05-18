@@ -6,7 +6,7 @@
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
-<img src="selfo.jpg" class="responsive-img" alt="Alt text" style="max-width:400px;height:auto;border:1px solid #ddd;">
+<img src="selfo.jpg" class="responsive-img" alt="Alt text" style="max-width:200px;height:auto;border:1px solid #ddd;">
 
 
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
