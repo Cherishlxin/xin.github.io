@@ -6,7 +6,17 @@
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
-<img src="selfo" alt="Alt text" style="width:50%; height:auto;">
+<style>
+.responsive-img {
+  max-width: 400px;
+  height: auto;
+  border: 1px solid #ddd; /* Optional border */
+}
+</style>
+
+![Alt text](selfo.jpg){:class="responsive-img"}
+
+
 <table style="border: none; border-collapse: collapse; line-height: 1.4;">
 <tr>
 <td style="border: none; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
