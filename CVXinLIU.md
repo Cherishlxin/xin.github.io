@@ -1,6 +1,6 @@
 <div style="max-width: 1000px; margin: 0 auto; text-align: justify;">
  
-# <u>CV-XIN LIU</u> <span style="font-size: 0.5em;">[🔗GitHub](https://github.com/Cherishlxin/xinCV)</span>
+# <u>CV-XIN LIU</u> <span style="font-size: 0.5em;">[🔗GitHub](https://github.com/Cherishlxin/xinCV)</span> <span style="font-size: 0.8em;">[GitHub](https://github.com/yourname)</span>
 
 ## 基本信息
 <!--
