@@ -13,6 +13,28 @@
 | 📧 邮箱        | xl17g20@soton.ac.uk | 电话   | (+86) 130 0712 9982 |
 
 
+<table border="0">
+  <tr>
+    <td>出生年月：</td>
+    <td>1995.10.06</td>
+    <td>名族：</td>
+    <td>汉</td>
+  </tr>
+  <tr>
+    <td>政治面貌：</td>
+    <td>中共党员</td>
+    <td>籍贯：</td>
+    <td>湖北省随州市</td>
+  </tr>
+  <tr>
+    <td>📧 邮箱：</td>
+    <td>xl17g20@soton.ac.uk</td>
+    <td>电话：</td>
+    <td>(+86) 130 0712 9982</td>
+  </tr>
+</table>
+
+
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;">出生年月：</td>
