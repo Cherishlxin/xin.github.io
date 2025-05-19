@@ -38,18 +38,18 @@
 ---
 
 ##  期刊发表
-  - [1] <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “Analog Beamforming Assisted OTFS-Based CV-QKD Systems for Doubly Selective THz Estimated Channels,” *IEEE Transactions on Vehicular Technology*, under review. IF=6.1.
-  - [2] <ins>**X. Liu**</ins>, C. Xu, S. Wang, S. X. Ng and L. Hanzo, “Hybrid Beamforming Assisted OTFS-Based CV-QKD Systems for Doubly Selective THz Channels,” *IEEE Transactions on Communications*, under review. IF=7.2.
-  - [3] D. Wang, <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “Short Polar Codes are capable of Outperforming LDPC Codes in CV-QKD,” *IEEE Open Journal of Vehicular Technology*, under review. IF=5.3.
-  - [4] <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “OTFS-Based CV-QKD Systems for Doubly Selective THz Channels,” *IEEE Transactions on Communications*, accepted, 2025. IF=7.2
+  - [1] <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “Analog Beamforming Assisted OTFS-Based CV-QKD Systems for Doubly Selective THz Estimated Channels,” ***IEEE Transactions on Vehicular Technology***, under review. IF=6.1.
+  - [2] <ins>**X. Liu**</ins>, C. Xu, S. Wang, S. X. Ng and L. Hanzo, “Hybrid Beamforming Assisted OTFS-Based CV-QKD Systems for Doubly Selective THz Channels,” ***IEEE Transactions on Communications***, under review. IF=7.2.
+  - [3] D. Wang, <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “Short Polar Codes are capable of Outperforming LDPC Codes in CV-QKD,” ***IEEE Open Journal of Vehicular Technology***, under review. IF=5.3.
+  - [4] <ins>**X. Liu**</ins>, C. Xu, S. X. Ng and L. Hanzo, “OTFS-Based CV-QKD Systems for Doubly Selective THz Channels,” ***IEEE Transactions on Communications***, accepted, 2025. IF=7.2
   - [5]  <ins>**X. Liu** </ins>, C. Xu, Y. Noori, S. X. Ng and L. Hanzo, “The Road to Near-Capacity CV-QKD Reconciliation:
-An FEC-Agnostic Design,” *IEEE Open Journal of the Communications Society*, vol.
+An FEC-Agnostic Design,” ***IEEE Open Journal of the Communications Society***, vol.
 5, pp. 2089-2112, 2024. IF=6.3
   - [6] <ins>**X. Liu**</ins>, R. Li, K. Luo, and T. Jiang, “Downlink and Uplink Decoupling in Heterogeneous Networks
-for 5G and Beyond,” *Journal of Communications and Information Networks*, vol. 3, no. 2,
+for 5G and Beyond,” ***Journal of Communications and Information Networks***, vol. 3, no. 2,
 pp. 1-13, 2018. IF=3.6
   - [7] R. Li, <ins>**X. Liu**</ins>, K. Luo, T. Jiang, and S. Jin, “Decoupled Access in HetNets with Backhaul
-Constrained Small Base Stations,” *IEEE Access*, vol. 6, no. 1, pp. 27028-27038, 2018. IF=3.4
+Constrained Small Base Stations,” ***IEEE Access***, vol. 6, no. 1, pp. 27028-27038, 2018. IF=3.4
 
 ---
 
