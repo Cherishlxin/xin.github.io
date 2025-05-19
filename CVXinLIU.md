@@ -9,75 +9,17 @@
 
 <pre>
 生年月：1995.10.06　　         名族：汉
-政治面貌：中共党员　　           籍贯：湖北省随州市
+政治面貌：中共党员　　          籍贯：湖北省随州市
 邮箱: xl17g20@soton.ac.uk     电话: (+86) 130 0712 9982
-</pre>
-
-<table style="border: none!important; border-collapse: collapse!important; line-height: 1.4;">
-<tr>
-<td style="border: none!important; width: 50%; padding: 2px 8px;">生年月：1995.10.06</td>
-<td style="border: none!important; padding: 2px 8px;">名族：汉</td>
-</tr>
-<tr>
-<td style="border: none!important; padding: 2px 8px;">政治面貌：中共党员</td>
-<td style="border: none!important; padding: 2px 8px;">籍贯：湖北省随州市</td>
-</tr>
-<tr>
-<td style="border: none!important; padding: 2px 8px;">📧 邮箱: xl17g20@soton.ac.uk  </td>
-<td style="border: none!important; padding: 2px 8px;">电话: (+86) 130 0712 9982 </td>
-</tr>
-</table>  
-
-- **生年月**：1995.10.06
-- **名族**：汉
-- **政治面貌**：中共党员
-- **籍贯**：湖北省随州市
-- **📧 邮箱**：xl17g20@soton.ac.uk
-- **电话**：(+86) 130 0712 9982
-
-<div style="line-height: 1.6;">
-  <p>生年月：1995.10.06　　名族：汉</p>
-  <p>政治面貌：中共党员　　籍贯：湖北省随州市</p>
-  <p>📧 邮箱: xl17g20@soton.ac.uk　　电话: (+86) 130 0712 9982</p>
-</div>
-
-<div style="line-height: 1.8;">
-  <div>
-    <span style="display:inline-block; width: 200px;">生年月：1995.10.06</span>
-    <span>名族：汉</span>
-  </div>
-  <div>
-    <span style="display:inline-block; width: 200px;">政治面貌：中共党员</span>
-    <span>籍贯：湖北省随州市</span>
-  </div>
-  <div>
-    <span style="display:inline-block; width: 200px;">📧 邮箱: xl17g20@soton.ac.uk</span>
-    <span>电话: (+86) 130 0712 9982</span>
-  </div>
-</div>
-
-<div style="line-height: 1.8; font-size: 15px;">
-  <div>
-    <span style="display:inline-block; width: 140px;">生年月：1995.10.06</span>
-    <span>名族：汉</span>
-  </div>
-  <div>
-    <span style="display:inline-block; width: 140px;">政治面貌：中共党员</span>
-    <span>籍贯：湖北省随州市</span>
-  </div>
-  <div>
-    <span style="display:inline-block; width: 140px;">📧 邮箱: xl17g20@soton.ac.uk</span>
-    <span>电话: (+86) 130 0712 9982</span>
-  </div>
-</div>
+</pre> 
 
 **研究方向**：多载波通信（OFDM/OTFS），信道编码，量子密钥分发（QKD），无线通信，雷达通信系统信号处理
 
 ---
 ## 🎓 教育背景
-  - 英国南安普顿大学(QS81)，博士，通信工程，2021.02 – 2025.02，导师：Lajos Hanzo，Southampton, UK
-  - 华中科技大学(保研)，硕士，信息与通信工程，2017.09 – 2020.06，均分: 91.68/100, 排名: 1/130， 武汉
-  - 武汉理工大学，学士，通信工程，2013.09 – 2017.06，均分: 93.60/100, 排名: 1/229， 武汉
+  - *博士*，英国南安普顿大学(QS81)，通信工程，2021.02 – 2025.02，导师：Lajos Hanzo，Southampton, UK
+  - *硕士*，华中科技大学(保研)，信息与通信工程，2017.09 – 2020.06，均分: 91.68/100, 排名: 1/130，武汉
+  - *学士*，武汉理工大学，通信工程，2013.09 – 2017.06，均分: 93.60/100, 排名: 1/229，武汉
 ---
 
 ## 💼  研究项目
