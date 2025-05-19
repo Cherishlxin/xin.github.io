@@ -5,13 +5,21 @@
 <!--
 [myselfo](selfo.jpg){ width=300 height=200 }
 -->
-<img src="selfo.jpg" width="15%">
 
+<div align=left>
+<img width="150" src="selfo.jpg" alt="封面"/>
+</div>
+<!--
 <pre>
-生年月：1995.10.06　　         名族：汉
-政治面貌：中共党员　　          籍贯：湖北省随州市
-邮箱: xl17g20@soton.ac.uk     电话: (+86) 130 0712 9982
+出生年月：1995.10.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;名族：汉
+政治面貌：中共党员&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;籍贯：湖北省随州市
+邮箱: xl17g20@soton.ac.uk&emsp;&emsp;&emsp;&emsp;电话: (+86) 130 0712 9982
 </pre> 
+-->
+
+出生年月：1995.10.06&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;民族：汉 \
+政治面貌：中共党员&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;籍贯：湖北省随州市\
+邮箱: xl17g20@soton.ac.uk&emsp;&emsp;&emsp;&emsp;&emsp;电话: (+86) 130 0712 9982
 
 **研究方向**：多载波通信（OFDM/OTFS），信道编码，量子密钥分发（QKD），无线通信，雷达通信系统信号处理
 
