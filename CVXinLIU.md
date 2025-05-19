@@ -56,6 +56,20 @@
   </div>
 </div>
 
+<div style="line-height: 1.8; font-size: 15px;">
+  <div>
+    <span style="display:inline-block; width: 140px;">生年月：1995.10.06</span>
+    <span>名族：汉</span>
+  </div>
+  <div>
+    <span style="display:inline-block; width: 140px;">政治面貌：中共党员</span>
+    <span>籍贯：湖北省随州市</span>
+  </div>
+  <div>
+    <span style="display:inline-block; width: 140px;">📧 邮箱: xl17g20@soton.ac.uk</span>
+    <span>电话: (+86) 130 0712 9982</span>
+  </div>
+</div>
 
 **研究方向**：多载波通信（OFDM/OTFS），信道编码，量子密钥分发（QKD），无线通信，雷达通信系统信号处理
 
