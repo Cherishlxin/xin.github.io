@@ -30,23 +30,6 @@
 
 **研究方向**：多载波通信（OFDM/OTFS），信道编码，量子密钥分发（QKD），无线通信，雷达通信系统信号处理
 
-``` tex
-\begin{tabular}{p{0.4\textwidth} p{0.1\textwidth}p{0.2\textwidth} >{\raggedleft\arraybackslash}p{0.2\textwidth}}
-\textbf{英国南安普顿大学(QS81)} &\textbf{博士}&\textbf{通信工程}&{2021.02 -- 现今} \\
-导师：Lajos Hanzo& & &{Southampton, UK}\\
-\end{tabular}
-\vspace{0.1em}\\
-\begin{tabular}{p{0.4\textwidth} p{0.1\textwidth}p{0.2\textwidth} >{\raggedleft\arraybackslash}p{0.2\textwidth}}
-\textbf{华中科技大学(保研)} &\textbf{硕士}&\textbf{信息与通信工程}&{2017.09 -- 2020.06} \\
-{均分:} {91.68}/100, {排名:} 1/130& & &{武汉}\\
-\end{tabular}\\
-\vspace{0.1em}\\
-\begin{tabular}{p{0.4\textwidth} p{0.1\textwidth}p{0.2\textwidth} >{\raggedleft\arraybackslash}p{0.2\textwidth}}
-\textbf{武汉理工大学} &\textbf{学士}&\textbf{通信工程}&{2013.09 -- 2017.06} \\
-{均分:} {93.60}/100, {排名:} 1/229& & &{武汉}\\
-%\vspace{-0.8em}\\
-\end{tabular}
-```
 ---
 ## 🎓 教育背景
   - 英国南安普顿大学(QS81)，博士，通信工程，2021.02 – 2025.02，导师：Lajos Hanzo，Southampton, UK
